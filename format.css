@@ -1,0 +1,28 @@
+header {
+	background-color: #ede624;
+}
+
+body{
+	background-color: #cc5639;
+}
+header div nav a{
+	text-decoration: none;
+
+}
+
+body p a{
+	text-decoration: none;
+}
+
+
+h1,h2{ font-size: 10vw;
+		font-size: 20px;
+	   font-family: MV Boli;
+	   color: #ffffff;
+		}
+h2 { font-family: 20px;
+	font-family: 10vw;
+	 font-family: MV Boli; }
+
+p  { font-size: 15px;
+	   font-size: 1.5vw;}
